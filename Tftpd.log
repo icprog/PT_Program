@@ -1,0 +1,16 @@
+Sep 29, 2011 11:58:03 Session 1, Peer 192.168.1.1 TFTP Server session started
+Sep 29, 2011 11:58:03 Session 1, Peer 192.168.1.1 Client requests GET of file D:\project\PT UI program(V3.0)---Within TFTP server\vmlinuz.
+Sep 29, 2011 11:58:15 Session 1, Peer 192.168.1.1 Send of vmlinuz done. 2723243 bytes in 12 secs.(221 KB/sec)
+Sep 29, 2011 12:06:55 Session 2, Peer 192.168.1.1 TFTP Server session started
+Sep 29, 2011 12:06:55 Session 2, Peer 192.168.1.1 Client requests GET of file D:\project\PT UI program(V3.0)---Within TFTP server\vmlinuz.
+Sep 29, 2011 12:07:08 Session 2, Peer 192.168.1.1 Retry. Block = 3782. Retries left = 9
+Sep 29, 2011 12:07:13 Session 2, Peer 192.168.1.1 Retry. Block = 3782. Retries left = 8
+Sep 29, 2011 12:07:18 Session 2, Peer 192.168.1.1 Retry. Block = 3782. Retries left = 7
+Sep 29, 2011 12:07:23 Session 2, Peer 192.168.1.1 Retry. Block = 3782. Retries left = 6
+Sep 29, 2011 12:07:28 Session 2, Peer 192.168.1.1 Retry. Block = 3782. Retries left = 5
+Sep 29, 2011 12:07:33 Session 2, Peer 192.168.1.1 Retry. Block = 3782. Retries left = 4
+Sep 29, 2011 12:07:38 Session 2, Peer 192.168.1.1 Retry. Block = 3782. Retries left = 3
+Sep 29, 2011 12:07:43 Session 2, Peer 192.168.1.1 Retry. Block = 3782. Retries left = 2
+Sep 29, 2011 12:07:48 Session 2, Peer 192.168.1.1 Retry. Block = 3782. Retries left = 1
+Sep 29, 2011 12:07:53 Session 2, Peer 192.168.1.1 Retry. Block = 3782. Retries left = 0
+Sep 29, 2011 12:07:58 Session 2, Peer 192.168.1.1 vmlinuz: No more retries left. Aborting.

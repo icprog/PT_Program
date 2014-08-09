@@ -1,0 +1,22 @@
+V1.0.1	2011/3/7
+		1.Use H181's PT program change to H163's
+		2.change when test pass&fail read SFC's reponse
+V1.0.2	2011/4/9
+		1.change wait way when SFC not reponse
+		2.Modfiy a bug:program don't show pass/fail when test end
+V1.0.3	2011/4/14
+		1.Modfiy a bug:Don't recode test log to server
+V1.0.4	2011/5/30
+		1.change program to UI program
+		2.change init.ini file to struct way,in program which use the parameter also as struct
+V1.0.5	2011/6/15
+		1.delete WIFI test command at UI program
+V1.0.6	2011/7/1
+		1.Add MydasDebug parameter used for debug mydas without OnSFIS
+		2.Add show Mydas sent data(detail/error/main) for Mydas debug
+		3.cannell delete WIFI test command at UI program
+		4.cannell change program version at init.ini file
+V1.0.7	2011/7/1
+		1.add a "," at end of detail test data.(because VN Mydas set if detail is null ,cann't insert data to server)
+		2.change updata data to MYDAS judge logic to:((OnSFIS && PostMydas) || MydasDebug ) 
+		3.add show more debug information about MYDAS¡]after collect data , before send to MYDAS ¡^
